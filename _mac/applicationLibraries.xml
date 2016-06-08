@@ -18618,6 +18618,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/quiet_assets-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="quiet_assets (v1.1.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/quiet_assets-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/quiet_assets-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rabl (v0.11.8, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/rabl-0.11.8/lib" />
@@ -25632,6 +25640,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/config" />
+      </SOURCES>
+    </library>
+    <library name="solidus_multi_domain (v1.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_multi_domain-1.4.0/config" />
       </SOURCES>
     </library>
     <library name="sort_alphabetical (v1.0.2, RVM: ruby-2.3.0 [active_zoo]) [gem]">
