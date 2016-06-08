@@ -848,6 +848,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@kareon_client/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="aescrypt (v1.0.0, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/aescrypt-1.0.0/lib" />
@@ -1566,6 +1578,18 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/bcrypt-3.1.11/lib" />
+      </SOURCES>
+    </library>
+    <library name="bcrypt (v3.1.11, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bcrypt-3.1.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bcrypt-3.1.11/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -2800,6 +2824,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/bootstrap-wysihtml5-rails-0.3.3.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/bootstrap-wysihtml5-rails-0.3.3.7/vendor" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/bootstrap-wysihtml5-rails-0.3.3.7/.bundle" />
+      </SOURCES>
+    </library>
+    <library name="bourbon (v4.2.7, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/bourbon-4.2.7/features" />
       </SOURCES>
     </library>
     <library name="braintree (v2.40.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -4056,6 +4094,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/climate_control-0.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="climate_control (v0.0.3, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/climate_control-0.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/climate_control-0.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="cliver (v0.3.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/cliver-0.3.2/lib" />
@@ -4630,6 +4676,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/colorize-0.7.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="colorize (v0.7.7, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/colorize-0.7.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/colorize-0.7.7/lib" />
       </SOURCES>
     </library>
     <library name="colorize (v0.7.7, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -5584,6 +5638,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/deep_merge-1.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="deface (v1.0.2, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/deface-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/deface-1.0.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/deface-1.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/deface-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/deface-1.0.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/deface-1.0.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="delayed_job (v4.0.6, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/delayed_job-4.0.6/lib" />
@@ -5796,6 +5862,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/devise-async-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="devise-encryptable (v0.1.2, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/devise-encryptable-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/devise-encryptable-0.1.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/devise-encryptable-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/devise-encryptable-0.1.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise-encryptable (v0.2.0, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
@@ -7510,6 +7586,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/fastercsv-1.5.5/lib" />
       </SOURCES>
     </library>
+    <library name="ffaker (v1.32.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/ffaker-1.32.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/ffaker-1.32.1/scripts" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/ffaker-1.32.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/ffaker-1.32.1/scripts" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.10, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.10" />
@@ -8250,6 +8336,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/friendly_id-5.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/friendly_id-5.1.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="friendly_id (v5.1.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/friendly_id-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/friendly_id-5.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/friendly_id-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/friendly_id-5.1.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="friendly_id (v5.1.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -9524,6 +9620,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/handlebars_assets-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/handlebars_assets-0.21.0/vendor" />
+      </SOURCES>
+    </library>
+    <library name="handlebars_assets (v0.23.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/handlebars_assets-0.23.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/handlebars_assets-0.23.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/handlebars_assets-0.23.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/handlebars_assets-0.23.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/handlebars_assets-0.23.0/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/handlebars_assets-0.23.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="hash-deep-merge (v0.1.1, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
@@ -13442,6 +13550,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/kaminari-0.16.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari (v0.17.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/kaminari-0.17.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="kareo_client (v0.0.1@c16d5f, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/kareo_client-c16d5fb5251f/lib" />
@@ -15360,6 +15482,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/monetize-1.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="monetize (v1.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/monetize-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/monetize-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="monetize (v1.4.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/monetize-1.4.0/lib" />
@@ -15406,6 +15536,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/money-6.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/money-6.7.0/config" />
+      </SOURCES>
+    </library>
+    <library name="money (v6.7.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/money-6.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/money-6.7.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/money-6.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/money-6.7.1/config" />
       </SOURCES>
     </library>
     <library name="money-rails (v1.3.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -16776,6 +16916,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/paperclip-3.5.3/shoulda_macros" />
       </SOURCES>
     </library>
+    <library name="paperclip (v4.2.4, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/cucumber" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/shoulda_macros" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/cucumber" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paperclip-4.2.4/shoulda_macros" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.6.1, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/parallel-1.6.1/lib" />
@@ -16832,6 +16988,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/paranoia-2.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="paranoia (v2.1.5, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paranoia-2.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/paranoia-2.1.5/lib" />
       </SOURCES>
     </library>
     <library name="paranoia (v2.1.5, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -17030,6 +17194,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/poltergeist-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="polyamorous (v1.3.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/polyamorous-1.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/polyamorous-1.3.0/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.6, RVM: ruby-2.3.0 [active_zoo]) [gem]">
@@ -18444,6 +18616,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/quiet_assets-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rabl (v0.11.8, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/rabl-0.11.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/rabl-0.11.8/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/rabl-0.11.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/rabl-0.11.8/fixtures" />
       </SOURCES>
     </library>
     <library name="rabl (v0.9.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -20864,6 +21046,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/rake-11.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/rake-11.1.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/rake-11.1.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="ransack (v1.6.6, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/ransack-1.6.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/ransack-1.6.6/lib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.9.4, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
@@ -25428,6 +25618,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/socksify-1.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="solidus_auth_devise (v1.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/solidus_auth_devise-1.4.0/config" />
+      </SOURCES>
+    </library>
     <library name="sort_alphabetical (v1.0.2, RVM: ruby-2.3.0 [active_zoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/sort_alphabetical-1.0.2/lib" />
@@ -25904,12 +26110,50 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/stackprof-0.2.7/vendor" />
       </SOURCES>
     </library>
+    <library name="state_machines (v0.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="state_machines-activemodel (v0.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activemodel-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activemodel-0.4.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activemodel-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activemodel-0.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="state_machines-activerecord (v0.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activerecord-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activerecord-0.4.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activerecord-0.4.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activerecord-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activerecord-0.4.0/log" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/state_machines-activerecord-0.4.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="statesman (v1.2.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/statesman-1.2.2/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/statesman-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="stringex (v1.5.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/stringex-1.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/stringex-1.5.1/lib" />
       </SOURCES>
     </library>
     <library name="stripe (v1.22.0, RVM: ruby-2.3.0 [active_zoo]) [gem]">
@@ -27412,6 +27656,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/trollop-1.16.2/lib" />
       </SOURCES>
     </library>
+    <library name="truncate_html (v0.9.2, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/truncate_html-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/truncate_html-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="turbolinks (v2.5.1, RVM: ruby-2.3.0 [active_zoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.0@active_zoo/gems/turbolinks-2.5.1/lib" />
@@ -27468,6 +27720,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/twilio-ruby-4.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/twilio-ruby-4.2.1/conf" />
+      </SOURCES>
+    </library>
+    <library name="twitter_cldr (v3.3.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/twitter_cldr-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/twitter_cldr-3.3.0/resources" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/twitter_cldr-3.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/twitter_cldr-3.3.0/resources" />
       </SOURCES>
     </library>
     <library name="tzinfo (v0.3.42, RVM: ruby-2.1.5 [chiron-web]) [gem]">
