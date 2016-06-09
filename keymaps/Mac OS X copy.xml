@@ -13,6 +13,11 @@
     <keyboard-shortcut first-keystroke="meta delete" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="Replace" />
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="SafeDelete" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -30,4 +35,5 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="UsageView.Remove" />
+  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
 </keymap>
