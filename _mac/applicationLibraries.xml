@@ -990,6 +990,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/allscripts-unity-client-2f99f51bec21/lib" />
       </SOURCES>
     </library>
+    <library name="allscripts_unity_client (v3.3.1@91775a, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/allscripts-unity-client-91775a8c228e/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/allscripts-unity-client-91775a8c228e/lib" />
+      </SOURCES>
+    </library>
     <library name="american_date (v1.1.0, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/american_date-1.1.0/lib" />
