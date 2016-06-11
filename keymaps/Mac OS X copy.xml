@@ -13,7 +13,6 @@
     <keyboard-shortcut first-keystroke="meta delete" />
   </action>
   <action id="EditorSelectWord" />
-  <action id="Replace" />
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="meta r" />
