@@ -1054,6 +1054,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/ar-octopus-0.8.5/sample_app" />
       </SOURCES>
     </library>
+    <library name="arel (v3.0.3.20131114190737, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/arel-3.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/arel-3.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v4.0.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/arel-4.0.2/lib" />
@@ -28274,6 +28282,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/tzinfo-0.3.49/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v0.3.49, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/tzinfo-0.3.49/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/tzinfo-0.3.49/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-2.1.5 [allscripts_unity_client]) [gem]">
