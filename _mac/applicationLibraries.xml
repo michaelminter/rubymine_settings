@@ -23986,6 +23986,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rubocop-0.40.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.40.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rubocop-0.40.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-debug-ide (v0.6.0, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/ruby-debug-ide-0.6.0/bin" />
