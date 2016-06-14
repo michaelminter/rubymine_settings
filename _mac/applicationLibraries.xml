@@ -9022,6 +9022,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroics-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="heroku (v1.6.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/lib" />
+      </SOURCES>
+    </library>
     <library name="heroku (v3.42.21, RVM: ruby-2.2.1 [smartsearch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/heroku-3.42.21/bin" />
