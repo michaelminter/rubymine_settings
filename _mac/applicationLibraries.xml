@@ -7798,6 +7798,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/friendly_id-5.1.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="friendly_id (v5.1.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/friendly_id-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/friendly_id-5.1.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/friendly_id-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/friendly_id-5.1.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="friendly_id (v5.1.0, RVM: ruby-2.2.1 [smartsearch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/friendly_id-5.1.0/lib" />
@@ -8660,6 +8670,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/guard-compat-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard-compat (v1.2.1, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/guard-compat-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/guard-compat-1.2.1/lib" />
       </SOURCES>
     </library>
     <library name="guard-compat (v1.2.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -24732,6 +24750,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/stripe_event-1.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/stripe_event-1.5.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/stripe_event-1.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="swagger-docs (v0.2.8, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/swagger-docs-0.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/swagger-docs-0.2.8/certs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/swagger-docs-0.2.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/swagger-docs-0.2.8/certs" />
       </SOURCES>
     </library>
     <library name="switch_user (v1.1.0, RVM: ruby-2.3.0 [active_zoo]) [gem]">
