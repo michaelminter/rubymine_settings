@@ -312,6 +312,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/activemerchant-1.48.0/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v3.2.22.2, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/activemodel-3.2.22.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/activemodel-3.2.22.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.0.13, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/activemodel-4.0.13/lib" />
@@ -382,6 +390,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/activemodel-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v3.2.22.2, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/activerecord-3.2.22.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/activerecord-3.2.22.2/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v4.0.13, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -498,6 +514,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/activeresource-4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v3.2.22.2, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/activesupport-3.2.22.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/activesupport-3.2.22.2/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.0.13, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/activesupport-4.0.13/lib" />
@@ -606,6 +630,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/acts_as_list-0.7.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/acts_as_list-0.7.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="acts_as_paranoid (v0.3.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/acts_as_paranoid-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/acts_as_paranoid-0.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="acts_as_paranoid (v0.4.3, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/acts_as_paranoid-0.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/acts_as_paranoid-0.4.3/lib" />
       </SOURCES>
     </library>
     <library name="acts_as_xlsx (v1.0.6, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
@@ -2802,6 +2842,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/browserify-rails-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.0.4, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/builder-3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/builder-3.0.4/lib" />
       </SOURCES>
     </library>
     <library name="builder (v3.1.4, RVM: ruby-2.1.5 [chiron-web]) [gem]">
