@@ -6546,6 +6546,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/excon-0.45.4/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.49.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/excon-0.49.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.2.2, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/execjs-2.2.2/lib" />
@@ -9284,16 +9298,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroics-0.0.2/lib" />
       </SOURCES>
     </library>
-    <library name="heroku (v1.6.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-1.6.3/lib" />
-      </SOURCES>
-    </library>
     <library name="heroku (v3.42.21, RVM: ruby-2.2.1 [smartsearch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/heroku-3.42.21/bin" />
@@ -9312,6 +9316,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/heroku-api-0.3.23/lib" />
+      </SOURCES>
+    </library>
+    <library name="heroku-api (v0.4.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-api-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-api-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="high_voltage (v2.4.0, RVM: ruby-2.2.1 [smartsearch]) [gem]">
@@ -15212,6 +15224,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/net-ssh-2.7.0/support" />
       </SOURCES>
     </library>
+    <library name="net-ssh (v2.9.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/net-ssh-2.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/net-ssh-2.9.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/net-ssh-2.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/net-ssh-2.9.2/support" />
+      </SOURCES>
+    </library>
     <library name="net-ssh (v2.9.2, RVM: ruby-2.2.3 [varsitytutors]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@varsitytutors/gems/net-ssh-2.9.2/lib" />
@@ -15230,6 +15252,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/net-ssh-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/net-ssh-3.0.1/support" />
+      </SOURCES>
+    </library>
+    <library name="net-ssh-gateway (v1.2.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/net-ssh-gateway-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/net-ssh-gateway-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="net-ssh-gateway (v1.2.0, RVM: ruby-2.2.1 [smartsearch]) [gem]">
