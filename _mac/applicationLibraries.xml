@@ -9310,6 +9310,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/heroku-3.42.21/data" />
       </SOURCES>
     </library>
+    <library name="heroku (v3.43.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-3.43.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-3.43.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-3.43.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-3.43.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-3.43.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroku-3.43.3/data" />
+      </SOURCES>
+    </library>
     <library name="heroku-api (v0.3.23, RVM: ruby-2.2.1 [smartsearch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/heroku-api-0.3.23/lib" />
@@ -13168,6 +13180,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
+    <library name="launchy (v2.4.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/launchy-2.4.3/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/launchy-2.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/launchy-2.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/launchy-2.4.3/tasks" />
+      </SOURCES>
+    </library>
     <library name="launchy (v2.4.3, RVM: ruby-2.2.1 [smartsearch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@smartsearch/gems/launchy-2.4.3/bin" />
@@ -13782,6 +13806,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v1.25.1, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/mime-types-1.25.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/mime-types-1.25.1/lib" />
       </SOURCES>
     </library>
     <library name="mime-types (v1.25.1, RVM: ruby-2.2.1 [smartsearch]) [gem]">
@@ -15318,6 +15350,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/netrc-0.10.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/netrc-0.10.2/data" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.10.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/netrc-0.10.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/netrc-0.10.3/data" />
       </SOURCES>
     </library>
     <library name="netrc (v0.10.3, RVM: ruby-2.2.1 [smartsearch]) [gem]">
@@ -21644,6 +21686,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/resque_mailer-2.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rest-client (v1.6.8, RVM: ruby-2.1.5 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rest-client-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rest-client-1.6.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rest-client-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/rest-client-1.6.8/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v1.6.8, RVM: ruby-2.2.1 [smartsearch]) [gem]">
