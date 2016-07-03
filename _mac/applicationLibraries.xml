@@ -6546,6 +6546,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/haml-4.0.7/lib" />
       </SOURCES>
     </library>
+    <library name="haml (v4.0.7, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/haml-4.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/haml-4.0.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/haml-4.0.7/lib" />
+      </SOURCES>
+    </library>
     <library name="haml (v4.0.7, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/haml-4.0.7/bin" />
@@ -18508,6 +18518,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/simple_form-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_form (v3.2.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/simple_form-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/simple_form-3.2.1/lib" />
       </SOURCES>
     </library>
     <library name="simple_form (v3.2.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
