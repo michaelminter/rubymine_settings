@@ -534,6 +534,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.4.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/addressable-2.4.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/addressable-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/addressable-2.4.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/addressable-2.4.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.4.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/addressable-2.4.0/lib" />
@@ -810,6 +822,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/ast-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ast (v2.2.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ast-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ast-2.2.0/lib" />
       </SOURCES>
     </library>
     <library name="ast (v2.2.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -2704,6 +2724,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@beverage-test/gems/byebug-5.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v8.2.2, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/byebug-8.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/byebug-8.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/byebug-8.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/byebug-8.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/byebug-8.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/byebug-8.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v8.2.2, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/8.2.2" />
@@ -3280,6 +3314,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/coderay-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/coderay-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/coderay-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/coderay-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/coderay-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/coderay-1.1.0/bin" />
@@ -3724,6 +3768,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/crack-0.4.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/crack-0.4.3/script" />
+      </SOURCES>
+    </library>
+    <library name="crack (v0.4.3, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/crack-0.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/crack-0.4.3/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/crack-0.4.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/crack-0.4.3/script" />
       </SOURCES>
     </library>
     <library name="crack (v0.4.3, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -4598,6 +4652,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/diff-lcs-1.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/diff-lcs-1.2.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/diff-lcs-1.2.5/autotest" />
+      </SOURCES>
+    </library>
+    <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/diff-lcs-1.2.5/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/diff-lcs-1.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/diff-lcs-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/diff-lcs-1.2.5/autotest" />
       </SOURCES>
     </library>
     <library name="diff-lcs (v1.2.5, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -5512,6 +5578,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/faraday-0.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.9.2, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday (v0.9.2, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/faraday-0.9.2/lib" />
@@ -5542,6 +5616,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/faraday_middleware-0.10.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday_middleware (v0.10.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/faraday_middleware-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/faraday_middleware-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday_middleware (v0.10.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -5576,6 +5658,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/ffi-1.9.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/ffi-1.9.10/libtest" />
+      </SOURCES>
+    </library>
+    <library name="ffi (v1.9.10, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.10" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/libtest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.10" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/gen" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ffi-1.9.10/libtest" />
       </SOURCES>
     </library>
     <library name="ffi (v1.9.10, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -5854,6 +5952,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/formatador-0.2.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/formatador-0.2.5/tests" />
+      </SOURCES>
+    </library>
+    <library name="formatador (v0.2.5, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/formatador-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/formatador-0.2.5/tests" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/formatador-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/formatador-0.2.5/tests" />
       </SOURCES>
     </library>
     <library name="formatador (v0.2.5, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -6384,6 +6492,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/groupdate-2.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="guard (v2.13.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-2.13.0/images" />
+      </SOURCES>
+    </library>
     <library name="guard (v2.13.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/guard-2.13.0/bin" />
@@ -6486,6 +6608,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/guard-compat-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="guard-compat (v1.2.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-compat-1.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-compat-1.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="guard-compat (v1.2.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/guard-compat-1.2.1/lib" />
@@ -6526,6 +6656,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/guard-rspec-4.5.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/guard-rspec-4.5.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="guard-rspec (v4.6.4, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-rspec-4.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-rspec-4.6.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-rspec-4.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-rspec-4.6.4/gemfiles" />
       </SOURCES>
     </library>
     <library name="guard-rspec (v4.6.4, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -6570,6 +6710,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/guard-rubocop-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard-rubocop (v1.2.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-rubocop-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/guard-rubocop-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="guard-rubocop (v1.2.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -6742,6 +6890,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/handlebars_assets-0.23.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="hashdiff (v0.3.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/hashdiff-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/hashdiff-0.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="hashdiff (v0.3.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/hashdiff-0.3.0/lib" />
@@ -6804,6 +6960,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/hashie-3.4.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashie (v3.4.4, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/hashie-3.4.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/hashie-3.4.4/lib" />
       </SOURCES>
     </library>
     <library name="hashie (v3.4.4, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -9874,6 +10038,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@beverage-test/gems/json-1.8.3/diagrams" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.3, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/diagrams" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/json-1.8.3/diagrams" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/1.8.3" />
@@ -10212,6 +10398,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/listen-2.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="listen (v3.0.6, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/listen-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/listen-3.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/listen-3.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/listen-3.0.6/lib" />
+      </SOURCES>
+    </library>
     <library name="listen (v3.0.6, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/listen-3.0.6/bin" />
@@ -10308,6 +10504,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/lumberjack-1.0.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="lumberjack (v1.0.10, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/lumberjack-1.0.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/lumberjack-1.0.10/lib" />
       </SOURCES>
     </library>
     <library name="lumberjack (v1.0.10, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -11484,6 +11688,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/multipart-post-2.0.0/lib" />
@@ -11552,6 +11764,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/nenv-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="nenv (v0.3.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/nenv-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="nenv (v0.3.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -11996,6 +12216,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/nori-2.6.0/benchmark" />
       </SOURCES>
     </library>
+    <library name="notiffany (v0.0.8, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/notiffany-0.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/notiffany-0.0.8/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/notiffany-0.0.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/notiffany-0.0.8/images" />
+      </SOURCES>
+    </library>
     <library name="notiffany (v0.0.8, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/notiffany-0.0.8/lib" />
@@ -12308,6 +12538,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/parser-2.2.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.3.0.4, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/parser-2.3.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/parser-2.3.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/parser-2.3.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/parser-2.3.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="parser (v2.3.0.4, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/parser-2.3.0.4/bin" />
@@ -12552,6 +12792,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="powerpack (v0.1.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -14468,6 +14716,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rainbow-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v2.1.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rainbow-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rainbow (v2.1.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/rainbow-2.1.0/lib" />
@@ -15484,6 +15740,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.5.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.5.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/rake-10.5.0/bin" />
@@ -15632,6 +15900,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rb-fsevent-0.9.7/lib" />
       </SOURCES>
     </library>
+    <library name="rb-fsevent (v0.9.7, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-fsevent-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-fsevent-0.9.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-fsevent-0.9.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-fsevent-0.9.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-fsevent-0.9.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-fsevent-0.9.7/lib" />
+      </SOURCES>
+    </library>
     <library name="rb-fsevent (v0.9.7, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.7" />
@@ -15690,6 +15972,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rb-inotify-0.9.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.7, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-inotify-0.9.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rb-inotify-0.9.7/lib" />
       </SOURCES>
     </library>
     <library name="rb-inotify (v0.9.7, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -17296,6 +17586,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rspec-3.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rspec (v3.4.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.4.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/rspec-3.4.0/lib" />
@@ -17346,6 +17644,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rspec-core-3.1.7/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-core (v3.4.2, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-core-3.4.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-core-3.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-core-3.4.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-core-3.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-core (v3.4.2, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/rspec-core-3.4.2/exe" />
@@ -17394,6 +17702,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rspec-expectations-3.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations (v3.4.0, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-expectations-3.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-expectations-3.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-expectations (v3.4.0, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/rspec-expectations-3.4.0/lib" />
@@ -17436,6 +17752,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rspec-mocks-3.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v3.4.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-mocks-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-mocks-3.4.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.4.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -17518,6 +17842,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rspec-support-3.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-support (v3.4.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-support-3.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rspec-support-3.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-support (v3.4.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/rspec-support-3.4.1/lib" />
@@ -17586,6 +17918,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rubocop-0.28.0/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rubocop-0.28.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rubocop-0.28.0/relnotes" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.37.2, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/rubocop-0.37.2/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.37.2, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -17808,6 +18154,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/ruby-progressbar-1.7.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.7.5, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ruby-progressbar-1.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/ruby-progressbar-1.7.5/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar (v1.7.5, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -18128,6 +18482,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/safe_yaml-1.0.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/safe_yaml-1.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="safe_yaml (v1.0.4, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/safe_yaml-1.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/safe_yaml-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/safe_yaml-1.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/safe_yaml-1.0.4/lib" />
       </SOURCES>
     </library>
     <library name="safe_yaml (v1.0.4, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -18544,6 +18908,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/shellany-0.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="shellany (v0.0.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/shellany-0.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/shellany-0.0.1/lib" />
       </SOURCES>
     </library>
     <library name="shellany (v0.0.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
@@ -20274,6 +20646,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/thor-0.19.1/lib" />
       </SOURCES>
     </library>
+    <library name="thor (v0.19.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/thor-0.19.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/thor-0.19.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/thor-0.19.1/lib" />
+      </SOURCES>
+    </library>
     <library name="thor (v0.19.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/thor-0.19.1/bin" />
@@ -20872,6 +21254,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/unf_ext-0.0.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="unicode-display_width (v0.3.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/unicode-display_width-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/unicode-display_width-0.3.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/unicode-display_width-0.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/unicode-display_width-0.3.1/data" />
+      </SOURCES>
+    </library>
     <library name="unicode-display_width (v0.3.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/unicode-display_width-0.3.1/lib" />
@@ -21052,6 +21444,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/vcr-2.9.3/benchmarks" />
       </SOURCES>
     </library>
+    <library name="vcr (v3.0.1, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/vcr-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/vcr-3.0.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/vcr-3.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/vcr-3.0.1/features" />
+      </SOURCES>
+    </library>
     <library name="vcr (v3.0.1, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway_intergy_client/gems/vcr-3.0.1/lib" />
@@ -21208,6 +21610,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/webmock-1.20.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/webmock-1.20.4/minitest" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v1.22.6, RVM: ruby-2.2.3 [greenway]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/webmock-1.22.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/webmock-1.22.6/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/webmock-1.22.6/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/webmock-1.22.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/webmock-1.22.6/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.3@greenway/gems/webmock-1.22.6/minitest" />
       </SOURCES>
     </library>
     <library name="webmock (v1.22.6, RVM: ruby-2.2.3 [greenway_intergy_client]) [gem]">
