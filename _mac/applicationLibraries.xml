@@ -360,6 +360,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/activerecord-deprecated_finders-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="activerecord-deprecated_finders (v1.0.4, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/activerecord-deprecated_finders-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/activerecord-deprecated_finders-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord-session_store (v0.1.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/activerecord-session_store-0.1.2/lib" />
@@ -3806,6 +3814,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/connection_pool-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.0, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/connection_pool-2.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/connection_pool-2.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="countries (v1.2.5, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/countries-1.2.5/lib" />
@@ -5432,6 +5448,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="execjs (v2.7.0, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/execjs-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/execjs-2.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="execjs (v2.7.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/execjs-2.7.0/lib" />
@@ -6100,6 +6124,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.81.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.81.0/man" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.81.0/data" />
+      </SOURCES>
+    </library>
+    <library name="foreman (v0.82.0, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/foreman-0.82.0/data" />
       </SOURCES>
     </library>
     <library name="foreman (v0.82.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -10860,6 +10898,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="mail (v2.6.4, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mail-2.6.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mail-2.6.4/lib" />
+      </SOURCES>
+    </library>
     <library name="mail (v2.6.4, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/mail-2.6.4/lib" />
@@ -11128,6 +11174,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/mime-types-2.99.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/mime-types-2.99.2/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/mime-types-2.99.2/support" />
+      </SOURCES>
+    </library>
+    <library name="mime-types (v2.99.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mime-types-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mime-types-2.99.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mime-types-2.99.2/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mime-types-2.99.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mime-types-2.99.2/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mime-types-2.99.2/support" />
       </SOURCES>
     </library>
     <library name="mime-types (v3.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -11936,6 +11994,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.12.1, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.12.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -16352,6 +16418,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rake-11.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v11.2.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rake-11.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rake-11.2.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rake-11.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rake-11.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rake-11.2.2/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rake-11.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="ransack (v1.6.6, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/ransack-1.6.6/lib" />
@@ -17534,6 +17612,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-4.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-4.0.3/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-4.0.3/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="react_on_rails (v6.0.5, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/rakelib" />
       </SOURCES>
     </library>
     <library name="recipient_interceptor (v0.1.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -20192,6 +20284,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/sprockets-rails-2.3.2/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets-rails (v2.3.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/sprockets-rails-2.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/sprockets-rails-2.3.3/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v2.3.3, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sprockets-rails-2.3.3/lib" />
@@ -21706,6 +21806,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/tzinfo-0.3.50/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v0.3.51, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/tzinfo-0.3.51/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/tzinfo-0.3.51/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
