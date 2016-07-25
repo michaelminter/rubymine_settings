@@ -1150,11 +1150,13 @@
     </library>
     <library name="bcrypt (v3.1.11, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/bcrypt/3.1.11" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/bcrypt-3.1.11/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/bcrypt/3.1.11" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/bcrypt-3.1.11/lib" />
@@ -2210,11 +2212,13 @@
     </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/binding_of_caller/0.7.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/binding_of_caller-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/binding_of_caller/0.7.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/binding_of_caller/0.7.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/binding_of_caller-0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/binding_of_caller-0.7.2/lib" />
@@ -2762,12 +2766,14 @@
     </library>
     <library name="byebug (v3.4.0, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/byebug/3.4.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/byebug-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/byebug-3.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/byebug-3.4.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/byebug/3.4.0" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/3.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/byebug-3.4.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/byebug-3.4.0/ext" />
@@ -3016,6 +3022,7 @@
     </library>
     <library name="capybara-webkit (v1.4.1, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/capybara-webkit/1.4.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/capybara-webkit/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/capybara-webkit-1.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/capybara-webkit-1.4.1/lib" />
@@ -3024,6 +3031,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/capybara-webkit-1.4.1/templates" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/capybara-webkit/1.4.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/capybara-webkit/1.4.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/capybara-webkit-1.4.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/capybara-webkit-1.4.1/lib" />
@@ -4392,11 +4400,13 @@
     </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/debug_inspector/0.0.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/debug_inspector-0.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/debug_inspector/0.0.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/debug_inspector/0.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/debug_inspector-0.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/debug_inspector-0.0.2/lib" />
@@ -5242,6 +5252,7 @@
     </library>
     <library name="eventmachine (v1.0.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/eventmachine/1.0.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/eventmachine-1.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/eventmachine-1.0.3/lib" />
@@ -5250,6 +5261,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/eventmachine-1.0.3/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/eventmachine/1.0.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/eventmachine/1.0.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/eventmachine-1.0.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/eventmachine-1.0.3/lib" />
@@ -5920,6 +5932,7 @@
     </library>
     <library name="ffi (v1.9.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/ffi-1.9.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/ffi-1.9.3/gen" />
@@ -5927,6 +5940,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/ffi-1.9.3/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/ffi/1.9.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/ffi-1.9.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/ffi-1.9.3/gen" />
@@ -6432,6 +6446,7 @@
     </library>
     <library name="gherkin (v2.12.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/gherkin/2.12.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/gherkin/2.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/gherkin-2.12.2/js" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/gherkin-2.12.2/ext" />
@@ -6441,6 +6456,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/gherkin-2.12.2/features" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/gherkin/2.12.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/gherkin/2.12.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/gherkin-2.12.2/js" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/gherkin-2.12.2/ext" />
@@ -7390,12 +7406,14 @@
     </library>
     <library name="hpricot (v0.8.6, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/hpricot/0.8.6" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hpricot/0.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/hpricot-0.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/hpricot-0.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/hpricot-0.8.6/extras" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/hpricot/0.8.6" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hpricot/0.8.6" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/hpricot-0.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/hpricot-0.8.6/lib" />
@@ -12398,6 +12416,7 @@
     </library>
     <library name="nokogiri (v1.6.6.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.6.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/nokogiri-1.6.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/nokogiri-1.6.6.2/ext" />
@@ -12406,6 +12425,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/nokogiri-1.6.6.2/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/nokogiri/1.6.6.2" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.6.6.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/nokogiri-1.6.6.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/nokogiri-1.6.6.2/ext" />
@@ -13056,12 +13076,14 @@
     </library>
     <library name="pg (v0.17.1, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/pg/0.17.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.17.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pg-0.17.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pg-0.17.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pg-0.17.1/sample" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/pg/0.17.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.17.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pg-0.17.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pg-0.17.1/lib" />
@@ -13122,6 +13144,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/pkg-config-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="plymouth (v0.3.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/plymouth-0.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/plymouth-0.3.3/lib" />
       </SOURCES>
     </library>
     <library name="poltergeist (v1.6.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -13364,6 +13394,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/pry-byebug-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="pry-exception_explorer (v0.1.9, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-exception_explorer-0.1.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-exception_explorer-0.1.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-exception_explorer-0.1.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-exception_explorer-0.1.9/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-rails (v0.3.4, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/pry-rails-0.3.4/lib" />
@@ -13392,6 +13432,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-rails-0.3.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-rails-0.3.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pry-stack_explorer (v0.4.9.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-stack_explorer-0.4.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/pry-stack_explorer-0.4.9.2/lib" />
       </SOURCES>
     </library>
     <library name="psych (v2.0.0, ruby-2.0.0-p481) [gem]">
@@ -16342,12 +16390,14 @@
     </library>
     <library name="rb-fsevent (v0.9.4, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rb-fsevent-0.9.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rb-fsevent-0.9.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/rb-fsevent/0.9.4" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rb-fsevent/0.9.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rb-fsevent-0.9.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/rb-fsevent-0.9.4/ext" />
@@ -20236,6 +20286,7 @@
     </library>
     <library name="sqlite3 (v1.3.9, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/sqlite3/1.3.9" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/sqlite3-1.3.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/sqlite3-1.3.9/faq" />
@@ -20243,6 +20294,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/sqlite3-1.3.9/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/sqlite3/1.3.9" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/sqlite3/1.3.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/sqlite3-1.3.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/sqlite3-1.3.9/faq" />
@@ -21126,6 +21178,7 @@
     </library>
     <library name="thin (v1.5.1, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/thin/1.5.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/thin-1.5.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/thin-1.5.1/ext" />
@@ -21133,6 +21186,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/thin-1.5.1/example" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/thin/1.5.1" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/thin/1.5.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/thin-1.5.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/thin-1.5.1/ext" />
@@ -22306,11 +22360,13 @@
     </library>
     <library name="websocket-driver (v0.5.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/websocket-driver/0.5.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/websocket-driver-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/websocket-driver-0.5.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs21/websocket-driver/0.5.3" />
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/websocket-driver/0.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/websocket-driver-0.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/websocket-driver-0.5.3/lib" />
