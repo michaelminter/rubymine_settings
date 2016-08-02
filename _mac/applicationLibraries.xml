@@ -22728,6 +22728,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/websocket-extensions-0.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="wikipedia-client (v1.6.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/wikipedia-client-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/wikipedia-client-1.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/wikipedia-client-1.6.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/wikipedia-client-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/wikipedia-client-1.6.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/wikipedia-client-1.6.2/script" />
+      </SOURCES>
+    </library>
     <library name="will_paginate (v3.0.5, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/will_paginate-3.0.5/lib" />
