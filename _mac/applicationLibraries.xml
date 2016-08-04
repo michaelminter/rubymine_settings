@@ -12310,6 +12310,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/monetize-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="monetize (v1.4.0, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/monetize-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/monetize-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="monetize (v1.4.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/monetize-1.4.0/lib" />
@@ -12356,6 +12364,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/money-6.7.0/config" />
       </SOURCES>
     </library>
+    <library name="money (v6.7.1, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-6.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-6.7.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-6.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-6.7.1/config" />
+      </SOURCES>
+    </library>
     <library name="money (v6.7.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/money-6.7.1/lib" />
@@ -12394,6 +12412,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/money-rails-1.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/money-rails-1.6.0/config" />
+      </SOURCES>
+    </library>
+    <library name="money-rails (v1.6.2, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-rails-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-rails-1.6.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-rails-1.6.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/money-rails-1.6.2/config" />
       </SOURCES>
     </library>
     <library name="money-rails (v1.6.2, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -20616,6 +20644,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sinatra-1.4.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="sixarm_ruby_unaccent (v1.1.1, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/sixarm_ruby_unaccent-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/sixarm_ruby_unaccent-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="sixarm_ruby_unaccent (v1.1.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
