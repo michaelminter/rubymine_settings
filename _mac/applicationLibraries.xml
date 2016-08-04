@@ -72,6 +72,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/actionmailer-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/actionmailer-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/actionmailer-4.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/actionmailer-5.0.0/lib" />
@@ -144,6 +152,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/actionpack-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/actionpack-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/actionpack-4.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="actionpack (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/actionpack-5.0.0/lib" />
@@ -198,6 +214,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/actionview-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/actionview-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/actionview-4.2.7/lib" />
       </SOURCES>
     </library>
     <library name="actionview (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -270,6 +294,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/activejob-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activejob-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activejob-4.2.7/lib" />
       </SOURCES>
     </library>
     <library name="activejob (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -360,6 +392,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/activemodel-4.2.6/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activemodel-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activemodel-4.2.7/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/activemodel-5.0.0/lib" />
@@ -438,6 +478,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/activerecord-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activerecord-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activerecord-4.2.7/lib" />
       </SOURCES>
     </library>
     <library name="activerecord (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -528,6 +576,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/activesupport-4.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v4.2.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activesupport-4.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activesupport-4.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="activesupport (v4.2.3, RVM: ruby-2.2.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/activesupport-4.2.3/lib" />
@@ -558,6 +614,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/activesupport-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activesupport-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/activesupport-4.2.7/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v5.0.0, RVM: ruby-2.2.3 [kareo_client]) [gem]">
@@ -930,6 +994,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/arel-6.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="arel (v6.0.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/arel-6.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/arel-6.0.3/lib" />
       </SOURCES>
     </library>
     <library name="arel (v6.0.3, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -2592,6 +2664,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/builder-3.2.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/builder-3.2.2/rakelib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.2, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/builder-3.2.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/builder-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/builder-3.2.2/rakelib" />
       </SOURCES>
     </library>
     <library name="builder (v3.2.2, RVM: ruby-2.2.1 [global]) [gem]">
@@ -6788,6 +6870,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/globalid-0.3.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.3.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/globalid-0.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/globalid-0.3.7/lib" />
       </SOURCES>
     </library>
     <library name="globalid (v0.3.7, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -11088,6 +11178,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/loofah-2.0.3/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.0.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/loofah-2.0.3/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/loofah-2.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/loofah-2.0.3/benchmark" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/loofah-2.0.3/lib" />
@@ -11526,6 +11626,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/mime-types-2.99.2/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/mime-types-3.1/lib" />
@@ -11540,6 +11648,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mime-types-data-3.2016.0521/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mime-types-data-3.2016.0521/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mime-types-data-3.2016.0521/data" />
       </SOURCES>
     </library>
     <library name="mime-types-data (v3.2016.0521, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -11632,6 +11750,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/mini_portile2-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_portile2 (v2.1.0, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mini_portile2-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/mini_portile2-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="mini_portile2 (v2.1.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -13016,6 +13142,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/nokogiri-1.6.8/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.6.8, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/nokogiri-1.6.8/suppressions" />
+      </SOURCES>
+    </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.6.8" />
@@ -13630,6 +13774,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/pkg-config-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="pkg-config (v1.1.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/pkg-config-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/pkg-config-1.1.7/lib" />
       </SOURCES>
     </library>
     <library name="pkg-config (v1.1.7, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -15170,6 +15322,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rack-1.6.4/example" />
       </SOURCES>
     </library>
+    <library name="rack (v1.6.4, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rack-1.6.4/example" />
+      </SOURCES>
+    </library>
     <library name="rack (v1.6.4, RVM: ruby-2.2.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.1@global/gems/rack-1.6.4/bin" />
@@ -15494,6 +15660,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/rails-4.2.6/guides" />
       </SOURCES>
     </library>
+    <library name="rails (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-4.2.7/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-4.2.7/guides" />
+      </SOURCES>
+    </library>
     <library name="rails (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rails-5.0.0" />
@@ -15516,6 +15690,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-deprecated_sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-deprecated_sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, RVM: ruby-2.2.1 [global]) [gem]">
@@ -15564,6 +15746,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rails-dom-testing-1.0.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-dom-testing (v1.0.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-dom-testing-1.0.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-dom-testing-1.0.7/lib" />
       </SOURCES>
     </library>
     <library name="rails-dom-testing (v1.0.7, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -15632,6 +15822,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-html-sanitizer-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="rails-html-sanitizer (v1.0.3, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -15762,6 +15960,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/railties-4.2.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/railties-4.2.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v4.2.7, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/railties-4.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/railties-4.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/railties-4.2.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/railties-4.2.7/lib" />
       </SOURCES>
     </library>
     <library name="railties (v5.0.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
@@ -20826,6 +21034,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/sprockets-3.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.7.0, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/sprockets-3.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/sprockets-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/sprockets-3.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/sprockets-3.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets (v3.7.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/sprockets-3.7.0/bin" />
@@ -20908,6 +21126,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/sprockets-rails-3.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.1.1, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/sprockets-rails-3.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@global/gems/sprockets-rails-3.1.1/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-rails (v3.1.1, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
