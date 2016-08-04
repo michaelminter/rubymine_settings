@@ -1102,6 +1102,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/athenahealth-c13572b6bdd4/lib" />
       </SOURCES>
     </library>
+    <library name="athenahealth (v0.1.0@96424c, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/athenahealth-96424c4ecfa5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/athenahealth-96424c4ecfa5/lib" />
+      </SOURCES>
+    </library>
     <library name="audited (v4.2.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/audited-4.2.0/lib" />
@@ -18636,6 +18644,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/retryable-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="retryable (v2.0.4, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/retryable-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/retryable-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="roadie (v2.4.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
