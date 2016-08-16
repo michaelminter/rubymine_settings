@@ -23590,6 +23590,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/yard-0.8.7.6/benchmarks" />
       </SOURCES>
     </library>
+    <library name="yardstick (v0.9.9, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/yardstick-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/yardstick-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/yardstick-0.9.9/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/yardstick-0.9.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/yardstick-0.9.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/yardstick-0.9.9/config" />
+      </SOURCES>
+    </library>
     <library name="zeus (v0.15.4, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/zeus-0.15.4/bin" />
