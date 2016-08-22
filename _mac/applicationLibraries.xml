@@ -18448,6 +18448,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/react_on_rails-6.0.5/rakelib" />
       </SOURCES>
     </library>
+    <library name="react_on_rails (v6.0.5@ea9575, RVM: ruby-2.1.7 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/gen-examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/node_package" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/rakelib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/gen-examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/bundler/gems/react_on_rails-ea9575985ce9/node_package" />
+      </SOURCES>
+    </library>
     <library name="recipient_interceptor (v0.1.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/recipient_interceptor-0.1.2/lib" />
