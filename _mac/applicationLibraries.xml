@@ -7066,6 +7066,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/greenway_intergy_client-04d2ace66927/lib" />
       </SOURCES>
     </library>
+    <library name="greenway_intergy_client (v2.0.0@0aea70, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/greenway_intergy_client-0aea7054bacc/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/greenway_intergy_client-0aea7054bacc/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/greenway_intergy_client-0aea7054bacc/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/greenway_intergy_client-0aea7054bacc/lib" />
+      </SOURCES>
+    </library>
     <library name="gretel (v3.0.8, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/gretel-3.0.8/lib" />
