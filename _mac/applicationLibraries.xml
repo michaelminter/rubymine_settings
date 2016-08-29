@@ -13398,6 +13398,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7@chiron-web/gems/oauth2-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="oauth2 (v1.2.0, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/oauth2-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/oauth2-1.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="oauth2 (v1.2.0, RVM: ruby-2.3.1 [active_zoo_sales]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/oauth2-1.2.0/lib" />
