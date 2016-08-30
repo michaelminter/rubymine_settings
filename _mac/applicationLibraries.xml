@@ -5344,24 +5344,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/draper-2.1.0/gemfiles" />
       </SOURCES>
     </library>
-    <library name="drchrono-client (v0.2.0@f8548d, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+    <library name="drchrono-client (v@472f4a, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-f8548d424e2d/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-f8548d424e2d/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-472f4a0b52af/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-472f4a0b52af/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-f8548d424e2d/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-f8548d424e2d/lib" />
-      </SOURCES>
-    </library>
-    <library name="drchrono-client (v0.2.1@5e176d, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-5e176d2260a0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-5e176d2260a0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-5e176d2260a0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-5e176d2260a0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-472f4a0b52af/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-472f4a0b52af/lib" />
       </SOURCES>
     </library>
     <library name="ejs (v1.1.1, RVM: ruby-2.1.5 [chiron-web]) [gem]">
