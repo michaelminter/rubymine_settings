@@ -5354,6 +5354,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-c35d099dc80a/lib" />
       </SOURCES>
     </library>
+    <library name="drchrono-client (v0.4.0@ec513c, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-ec513c203b64/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-ec513c203b64/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-ec513c203b64/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-ec513c203b64/lib" />
+      </SOURCES>
+    </library>
     <library name="drchrono-client (v@472f4a, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/drchrono-client-472f4a0b52af/bin" />
