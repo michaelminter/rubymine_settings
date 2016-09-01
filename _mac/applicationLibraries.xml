@@ -13486,6 +13486,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_zoo_sales/gems/omniauth-auth0-1.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="omniauth-drchrono (v0.0.2@8cf631, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/bundler/gems/omniauth-drchrono-8cf63188ea56/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/bundler/gems/omniauth-drchrono-8cf63188ea56/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth-oauth2 (v1.4.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/omniauth-oauth2-1.4.0/lib" />
