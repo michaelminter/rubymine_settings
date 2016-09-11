@@ -10232,6 +10232,16 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.3.1/lib/ruby/2.3.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="ionicons-rails (v2.0.0, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/ionicons-rails-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/ionicons-rails-2.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/ionicons-rails-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/ionicons-rails-2.0.0/vendor" />
+      </SOURCES>
+    </library>
     <library name="its-it (v1.2.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/its-it-1.2.1/lib" />
