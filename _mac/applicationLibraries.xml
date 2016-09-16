@@ -19564,6 +19564,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/stripe-1.54.0/lib" />
       </SOURCES>
     </library>
+    <library name="stripe (v1.55.0, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/stripe-1.55.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/stripe-1.55.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/stripe-1.55.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/stripe-1.55.0/lib" />
+      </SOURCES>
+    </library>
     <library name="stripe-rails (v0.3.1, RVM: ruby-2.3.1 [active_merchant]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/stripe-rails-0.3.1/app" />
