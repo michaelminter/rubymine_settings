@@ -19598,6 +19598,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/stripe-rails-0.3.1/config" />
       </SOURCES>
     </library>
+    <library name="stripe-rails (v0.3.1@52e6cd, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/bundler/gems/stripe-rails-52e6cd085fa7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/bundler/gems/stripe-rails-52e6cd085fa7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/bundler/gems/stripe-rails-52e6cd085fa7/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/bundler/gems/stripe-rails-52e6cd085fa7/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/bundler/gems/stripe-rails-52e6cd085fa7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/bundler/gems/stripe-rails-52e6cd085fa7/config" />
+      </SOURCES>
+    </library>
     <library name="stripe_event (v1.5.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/stripe_event-1.5.0/app" />
