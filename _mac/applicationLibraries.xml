@@ -10160,6 +10160,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/kareo_client-8296e30d123b/.bundle" />
       </SOURCES>
     </library>
+    <library name="keen (v0.7.8, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/keen-0.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/keen-0.7.8/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/keen-0.7.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/keen-0.7.8/config" />
+      </SOURCES>
+    </library>
     <library name="keen (v0.9.5, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/keen-0.9.5/lib" />
@@ -14588,6 +14598,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rails-html-sanitizer-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-observers (v0.1.2, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/rails-observers-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/rails-observers-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="rails-observers (v0.1.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
