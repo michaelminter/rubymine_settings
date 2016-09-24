@@ -21060,6 +21060,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_frontend-1.3.1/vendor" />
       </SOURCES>
     </library>
+    <library name="solidus_gateway (v1.1.1, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/db" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_gateway-1.1.1/config" />
+      </SOURCES>
+    </library>
     <library name="solidus_multi_domain (v1.4.3, RVM: ruby-2.3.1 [active_merchant]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/solidus_multi_domain-1.4.3/db" />
