@@ -6256,6 +6256,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/faraday_middleware-0.10.0/lib" />
       </SOURCES>
     </library>
+    <library name="faraday_middleware (v0.10.0, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/faraday_middleware-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/faraday_middleware-0.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday_middleware (v0.10.0, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/faraday_middleware-0.10.0/lib" />
@@ -12910,6 +12918,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1 [active_merchant]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
