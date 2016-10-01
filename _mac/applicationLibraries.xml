@@ -13350,11 +13350,13 @@
     </library>
     <library name="nio4r (v1.2.1, RVM: ruby-2.3.1 [active_merchant]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/nio4r-1.2.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nio4r/1.2.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/nio4r-1.2.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/nio4r-1.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/nio4r-1.2.1/tasks" />
@@ -23648,10 +23650,12 @@
     </library>
     <library name="websocket-driver (v0.6.4, RVM: ruby-2.3.1 [active_merchant]) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/websocket-driver-0.6.4/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/websocket-driver/0.6.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/websocket-driver-0.6.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/websocket-driver-0.6.4/lib" />
       </SOURCES>
