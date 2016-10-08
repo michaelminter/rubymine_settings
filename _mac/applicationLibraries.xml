@@ -13048,6 +13048,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mimemagic-0.3.0/script" />
       </SOURCES>
     </library>
+    <library name="mina (v1.0.0, RVM: ruby-2.3.1 [active_merch]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/test_env" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/test_env" />
+      </SOURCES>
+    </library>
     <library name="mini_portile (v0.6.2, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/mini_portile-0.6.2/lib" />
@@ -14884,6 +14900,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/omniauth-oauth2-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="open4 (v1.3.4, RVM: ruby-2.3.1 [active_merch]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/open4-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/open4-1.3.4/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/open4-1.3.4/white_box" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/open4-1.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/open4-1.3.4/samples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/open4-1.3.4/white_box" />
       </SOURCES>
     </library>
     <library name="opentok (v2.2.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
