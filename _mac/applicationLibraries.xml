@@ -1602,6 +1602,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/aws-sdk-1.30.1/rails" />
       </SOURCES>
     </library>
+    <library name="aws-ses (v0.6.0, RVM: ruby-2.3.1 [active_merch]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/aws-ses-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/aws-ses-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws_cf_signer (v0.1.3, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/aws_cf_signer-0.1.3/lib" />
@@ -26006,6 +26014,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/workflow-1.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/workflow-1.2.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="xml-simple (v1.1.5, RVM: ruby-2.3.1 [active_merch]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/xml-simple-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/xml-simple-1.1.5/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v2.0.0, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
