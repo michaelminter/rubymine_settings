@@ -2,7 +2,7 @@
   <component name="InjectorSettings" version="1">
     <injections ignore-shortcut-case="true">
       <template shortcut="%%" usages="50" keypresses-saved="200">&lt;% | %&gt;</template>
-      <template shortcut="%=" usages="142" keypresses-saved="710">&lt;%= | %&gt;</template>
+      <template shortcut="%=" usages="149" keypresses-saved="745">&lt;%= | %&gt;</template>
       <template shortcut="%-" usages="1" keypresses-saved="6">&lt;%- | -%&gt;</template>
       <template shortcut="##" usages="0" keypresses-saved="0">&lt;%# | %&gt;</template>
       <template shortcut="%i" usages="0" keypresses-saved="0">&lt;% if | %&gt;</template>
@@ -15,7 +15,7 @@
       <template shortcut="%d" usages="0" keypresses-saved="0">&lt;%# TODO: | %&gt;</template>
     </injections>
     <string-inject shortcut="##" force-double-quotes="true" usages="0" keypresses-saved="0" />
-    <total-stats usages="193" keypresses-saved="916" />
+    <total-stats usages="200" keypresses-saved="951" />
     <param name="show-stats">false</param>
   </component>
 </application>
