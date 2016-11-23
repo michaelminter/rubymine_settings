@@ -12,10 +12,10 @@
       <template shortcut="%f" usages="0" keypresses-saved="0">&lt;% for | %&gt;</template>
       <template shortcut="%t" usages="0" keypresses-saved="0">&lt;%= t('|') %&gt;</template>
       <template shortcut="%a" usages="0" keypresses-saved="0">&lt;%= asset_path('|') %&gt;</template>
-      <template shortcut="%d" usages="0" keypresses-saved="0">&lt;%# TODO: | %&gt;</template>
+      <template shortcut="%d" usages="1" keypresses-saved="11">&lt;%# TODO: | %&gt;</template>
     </injections>
     <string-inject shortcut="##" force-double-quotes="true" usages="0" keypresses-saved="0" />
-    <total-stats usages="208" keypresses-saved="990" />
+    <total-stats usages="209" keypresses-saved="1001" />
     <param name="show-stats">false</param>
   </component>
 </application>
