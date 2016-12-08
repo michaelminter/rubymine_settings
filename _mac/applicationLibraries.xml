@@ -13966,6 +13966,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/kaminari-0.17.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="kaminari-bootstrap (v3.0.1, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/kaminari-bootstrap-3.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/kaminari-bootstrap-3.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/kaminari-bootstrap-3.0.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/kaminari-bootstrap-3.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="kareo_client (v0.0.1@c16d5f, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/kareo_client-c16d5fb5251f/lib" />
