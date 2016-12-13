@@ -14898,6 +14898,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/mime-types-2.99.2/support" />
       </SOURCES>
     </library>
+    <library name="mime-types (v2.99.3, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/mime-types-2.99.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/mime-types-2.99.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/mime-types-2.99.3/support" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/mime-types-2.99.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/mime-types-2.99.3/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/mime-types-2.99.3/support" />
+      </SOURCES>
+    </library>
     <library name="mime-types (v3.1, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/mime-types-3.1/lib" />
@@ -16402,6 +16414,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/netrc-0.11.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/netrc-0.11.0/data" />
+      </SOURCES>
+    </library>
+    <library name="netrc (v0.11.0, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/netrc-0.11.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
     <library name="netrc (v0.7.7, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -23286,6 +23308,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/rest-client-2.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rest-client (v2.0.0, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/rest-client-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/rest-client-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/rest-client-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/rest-client-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="restforce (v2.1.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/restforce-2.1.0/lib" />
@@ -23386,6 +23418,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/retryable-2.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="retryable (v2.0.4, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/retryable-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/retryable-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="roadie (v2.4.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -28560,6 +28600,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/unf_ext-0.0.7.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/unf_ext-0.0.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.2, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/unf_ext-0.0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/unf_ext-0.0.7.2/lib" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.0.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
