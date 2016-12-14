@@ -1714,6 +1714,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/bundler/gems/athenahealth-96424c4ecfa5/lib" />
       </SOURCES>
     </library>
+    <library name="athenahealth (v0.2.0@bfea1b, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/bundler/gems/athenahealth-bfea1b7ffa11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/bundler/gems/athenahealth-bfea1b7ffa11/lib" />
+      </SOURCES>
+    </library>
+    <library name="athenahealth (v0.2.1@bb96ce, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/bundler/gems/athenahealth-bb96ce74f5ea/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/bundler/gems/athenahealth-bb96ce74f5ea/lib" />
+      </SOURCES>
+    </library>
     <library name="audited (v4.2.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/audited-4.2.0/lib" />
