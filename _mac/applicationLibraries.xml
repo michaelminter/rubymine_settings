@@ -4174,6 +4174,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/carmen-1.0.2/iso_data" />
       </SOURCES>
     </library>
+    <library name="carrierwave (v0.11.2, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/carrierwave-0.11.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/carrierwave-0.11.2/lib" />
+      </SOURCES>
+    </library>
     <library name="celluloid (v0.15.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/celluloid-0.15.2/lib" />
@@ -4366,6 +4374,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/CFPropertyList-2.3.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="CFPropertyList (v2.3.3, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/CFPropertyList-2.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/CFPropertyList-2.3.3/lib" />
       </SOURCES>
     </library>
     <library name="chartkick (v1.4.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -6716,6 +6732,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/dotenv-2.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="dotenv (v2.1.1, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/dotenv-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/dotenv-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/dotenv-2.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/dotenv-2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="dotenv-rails (v1.0.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/dotenv-rails-1.0.2/lib" />
@@ -6770,6 +6796,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/dotenv-rails-2.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv-rails (v2.1.1, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/dotenv-rails-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/dotenv-rails-2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="draper (v2.1.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -8180,6 +8214,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-cloudatcost-0.1.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="fog-cloudatcost (v0.1.2, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-cloudatcost-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-cloudatcost-0.1.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-cloudatcost-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-cloudatcost-0.1.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="fog-core (v1.43.0, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-core-1.43.0/lib" />
@@ -8342,6 +8386,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-powerdns-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="fog-powerdns (v0.1.1, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-powerdns-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-powerdns-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-powerdns-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-powerdns-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="fog-profitbricks (v2.0.1, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-profitbricks-2.0.1/lib" />
@@ -8352,6 +8406,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-profitbricks-2.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-profitbricks-2.0.1/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-profitbricks-2.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-profitbricks (v3.0.0, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-profitbricks-3.0.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-profitbricks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-profitbricks-3.0.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-profitbricks-3.0.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-rackspace (v0.1.1, RVM: ruby-2.3.1 [active_merch]) [gem]">
@@ -8610,6 +8676,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-xenserver-0.2.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/fog-xenserver-0.2.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="fog-xenserver (v0.2.3, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-xenserver-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-xenserver-0.2.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-xenserver-0.2.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/fog-xenserver-0.2.3/gemfiles" />
       </SOURCES>
     </library>
     <library name="fog-xml (v0.1.2, RVM: ruby-2.3.1 [active_merch]) [gem]">
@@ -15062,6 +15138,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mimemagic-0.3.0/script" />
       </SOURCES>
     </library>
+    <library name="mimemagic (v0.3.2, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/mimemagic-0.3.2/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/mimemagic-0.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/mimemagic-0.3.2/script" />
+      </SOURCES>
+    </library>
     <library name="mina (v1.0.0, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/mina-1.0.0/bin" />
@@ -16040,6 +16126,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.12.1, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/multi_json-1.12.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/multi_json-1.12.1/lib" />
       </SOURCES>
     </library>
     <library name="multi_json (v1.12.1, RVM: ruby-2.3.1) [gem]">
@@ -21804,6 +21898,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/rbvmomi-1.8.2/devel" />
       </SOURCES>
     </library>
+    <library name="rbvmomi (v1.9.4, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/rbvmomi-1.9.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/rbvmomi-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/rbvmomi-1.9.4/devel" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/rbvmomi-1.9.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/rbvmomi-1.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/rbvmomi-1.9.4/devel" />
+      </SOURCES>
+    </library>
     <library name="rdoc (v4.0.0, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file:///usr/lib/ruby/2.0.0/dl" />
@@ -25374,6 +25480,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/simple_form-3.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_form (v3.3.1, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/simple_form-3.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/simple_form-3.3.1/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.8.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -29350,6 +29464,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/xml-simple-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-simple (v1.1.5, RVM: ruby-2.3.1 [patient-landing-pages]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/xml-simple-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/xml-simple-1.1.5/lib" />
       </SOURCES>
     </library>
     <library name="xpath (v2.0.0, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
