@@ -17490,6 +17490,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/paper_trail-5.2.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="paper_trail (v6.0.2, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/paper_trail-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/paper_trail-6.0.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/paper_trail-6.0.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/paper_trail-6.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/paper_trail-6.0.2/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/paper_trail-6.0.2/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="paperclip (v3.5.3, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/paperclip-3.5.3/lib" />
