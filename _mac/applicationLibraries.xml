@@ -5216,6 +5216,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/connection_pool-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="connection_pool (v2.2.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/connection_pool-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/connection_pool-2.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="countries (v1.2.5, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/countries-1.2.5/lib" />
@@ -23238,6 +23246,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/redis-3.3.0/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.3, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/redis-3.3.3/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/redis-3.3.3/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis-actionpack (v4.0.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/redis-actionpack-4.0.0/lib" />
@@ -25630,6 +25650,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/sidekiq-4.1.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/sidekiq-4.1.2/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/sidekiq-4.1.2/.github" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq (v4.2.9, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-4.2.9/.github" />
       </SOURCES>
     </library>
     <library name="signature (v0.1.8, RVM: ruby-2.2.1 [beverage-test]) [gem]">
