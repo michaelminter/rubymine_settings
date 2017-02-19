@@ -1,5 +1,15 @@
 <application>
   <component name="libraryTable">
+    <library name="acme-client (v0.4.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/acme-client-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/acme-client-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/acme-client-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/acme-client-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="actioncable (v5.0.0, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/actioncable-5.0.0/lib" />
@@ -10292,6 +10302,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/hashie-forbidden_attributes-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="heroics (v0.0.19, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/heroics-0.0.19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/heroics-0.0.19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/heroics-0.0.19/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/heroics-0.0.19/lib" />
+      </SOURCES>
+    </library>
     <library name="heroics (v0.0.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/heroics-0.0.2/bin" />
@@ -14472,6 +14492,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/launchy-2.4.3/tasks" />
       </SOURCES>
     </library>
+    <library name="letsencrypt-rails-heroku (v1.0.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/letsencrypt-rails-heroku-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/letsencrypt-rails-heroku-1.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="libxml-ruby (v2.6.0, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/lib/ruby/gems/2.0.0/gems/libxml-ruby-2.6.0/ext" />
@@ -16378,6 +16406,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merchant/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
