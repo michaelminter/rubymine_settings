@@ -5740,6 +5740,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/concurrent-ruby-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.4, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/concurrent-ruby-1.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/concurrent-ruby-1.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.4, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/concurrent-ruby-1.0.4/lib" />
@@ -8710,6 +8718,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/faker-stoked-0.2.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.11.0, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/faraday-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/faraday-0.11.0/lib" />
       </SOURCES>
     </library>
     <library name="faraday (v0.9.1, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -16000,6 +16016,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/lodash-rails-2.4.1/vendor" />
       </SOURCES>
     </library>
+    <library name="lograge (v0.4.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/lograge-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/lograge-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="lograge (v0.4.1, RVM: ruby-2.3.1 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/lograge-0.4.1/lib" />
@@ -19812,6 +19836,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pkg-config-1.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="platform-api (v0.8.0@4a06e5, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/bundler/gems/platform-api-4a06e57bd32d/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/bundler/gems/platform-api-4a06e57bd32d/lib" />
       </SOURCES>
     </library>
     <library name="poltergeist (v1.6.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
