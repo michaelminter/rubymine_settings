@@ -1734,6 +1734,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/analytics-ruby-2.0.12/lib" />
       </SOURCES>
     </library>
+    <library name="analytics-ruby (v2.2.2, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/analytics-ruby-2.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/analytics-ruby-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/analytics-ruby-2.2.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/analytics-ruby-2.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="annotate (v2.6.5, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/annotate-2.6.5/bin" />
@@ -4882,6 +4892,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/columnize-0.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="commander (v4.4.3, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/commander-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/commander-4.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/commander-4.4.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/commander-4.4.3/lib" />
       </SOURCES>
     </library>
     <library name="concurrent-ruby (v1.0.2, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
