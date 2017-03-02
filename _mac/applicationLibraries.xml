@@ -626,6 +626,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/actionview-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="active_model_serializers (v0.10.4, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/active_model_serializers-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/active_model_serializers-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/active_model_serializers-0.10.4/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/active_model_serializers-0.10.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/active_model_serializers-0.10.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/active_model_serializers-0.10.4/.github" />
+      </SOURCES>
+    </library>
     <library name="active_model_serializers (v0.9.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/active_model_serializers-0.9.2/lib" />
@@ -4008,6 +4020,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/carrierwave-0.11.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="case_transform (v0.2, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/case_transform-0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/case_transform-0.2/lib" />
       </SOURCES>
     </library>
     <library name="celluloid (v0.15.2, RVM: ruby-2.1.5 [chiron-web]) [gem]">
@@ -13164,6 +13184,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/json-2.0.2/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/json-2.0.2/diagrams" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/json-2.0.2/references" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi (v0.1.1.beta6, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/jsonapi-0.1.1.beta6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/jsonapi-0.1.1.beta6/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-parser (v0.1.1.beta3, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/jsonapi-parser-0.1.1.beta3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/jsonapi-parser-0.1.1.beta3/lib" />
+      </SOURCES>
+    </library>
+    <library name="jsonapi-renderer (v0.1.1.beta1, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/jsonapi-renderer-0.1.1.beta1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/jsonapi-renderer-0.1.1.beta1/lib" />
       </SOURCES>
     </library>
     <library name="jwt (v1.2.1, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
