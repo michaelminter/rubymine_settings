@@ -21670,6 +21670,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/rollbar-2.13.3/gemfiles" />
       </SOURCES>
     </library>
+    <library name="rollbar (v2.14.0, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/rollbar-2.14.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="rollbar (v2.9.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/rollbar-2.9.1/bin" />
