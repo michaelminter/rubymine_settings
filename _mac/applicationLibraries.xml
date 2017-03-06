@@ -23844,6 +23844,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/sidekiq-4.2.9/.github" />
       </SOURCES>
     </library>
+    <library name="sidekiq-failures (v0.4.5, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-failures-0.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-failures-0.4.5/lib" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-failures (v0.4.5, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/sidekiq-failures-0.4.5/lib" />
