@@ -4304,6 +4304,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/chronic_duration-0.10.6/lib" />
       </SOURCES>
     </library>
+    <library name="chronic_duration (v0.10.6, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/chronic_duration-0.10.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/chronic_duration-0.10.6/lib" />
+      </SOURCES>
+    </library>
     <library name="cldr-plurals-runtime-rb (v1.0.1, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/cldr-plurals-runtime-rb-1.0.1/lib" />
@@ -16762,6 +16770,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/numerizer-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="numerizer (v0.1.1, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/numerizer-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/numerizer-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="oauth2 (v1.0.0, RVM: ruby-2.1.5 [chiron-web]) [gem]">
