@@ -5858,6 +5858,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.0.0/gems/debase-0.2.2.beta9/lib" />
       </SOURCES>
     </library>
+    <library name="debase (v0.2.2.beta9, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/debase-0.2.2.beta9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/debase-0.2.2.beta9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/debase-0.2.2.beta9/lib" />
+      </SOURCES>
+    </library>
     <library name="debase (v0.2.2.beta9, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/debase-0.2.2.beta9/ext" />
@@ -22766,6 +22776,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@patient-landing-pages/gems/ruby-debug-ide-0.6.1.beta3/lib" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-ide (v0.6.1.beta4, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ruby-debug-ide-0.6.1.beta4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ruby-debug-ide-0.6.1.beta4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ruby-debug-ide-0.6.1.beta4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ruby-debug-ide-0.6.1.beta4/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-graphviz (v1.2.3, RVM: ruby-2.3.1 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/ruby-graphviz-1.2.3/bin" />
@@ -24028,6 +24050,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/sidekiq-4.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/sidekiq-4.2.9/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/sidekiq-4.2.9/.github" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-failures (v0.4.5, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-failures-0.4.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/sidekiq-failures-0.4.5/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq-failures (v0.4.5, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
