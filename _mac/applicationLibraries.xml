@@ -11336,6 +11336,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/httpi-2.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="httplog (v0.99.3, RVM: ruby-2.3.1 [chiron-api-aggregator]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/httplog-0.99.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/httplog-0.99.3/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n (v0.7.0, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/i18n-0.7.0/lib" />
