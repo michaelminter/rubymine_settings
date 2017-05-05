@@ -4964,6 +4964,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/colorize-0.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="colorize (v0.8.1, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/colorize-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/colorize-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="columnize (v0.8.9, RVM: ruby-2.1.5 [chiron-web]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-web/gems/columnize-0.8.9/lib" />
@@ -10562,6 +10570,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/guard-zeus-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="gush (v0.4.1, RVM: ruby-2.3.1 [ehr_data_lab]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/gush-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/gush-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/gush-0.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/gush-0.4.1/lib" />
       </SOURCES>
     </library>
     <library name="gyoku (v1.3.1, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
