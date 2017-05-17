@@ -9894,6 +9894,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/git-version-bump-0.15.1/lib" />
       </SOURCES>
     </library>
+    <library name="git-version-bump (v0.15.1, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/git-version-bump-0.15.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/git-version-bump-0.15.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/git-version-bump-0.15.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/git-version-bump-0.15.1/lib" />
+      </SOURCES>
+    </library>
     <library name="globalid (v0.3.3, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@chiron-api-aggregator/gems/globalid-0.3.3/lib" />
@@ -14404,6 +14414,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/meta_request-0.3.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="meta_request (v0.4.2, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/meta_request-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/meta_request-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="method_source (v0.8.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
@@ -18966,6 +18984,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/rack-contrib-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-contrib (v1.4.0, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/rack-contrib-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/rack-contrib-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="rack-cors (v0.4.0, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
