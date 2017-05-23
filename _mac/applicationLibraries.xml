@@ -4350,6 +4350,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-api-aggregator/gems/chronic_duration-0.10.6/lib" />
       </SOURCES>
     </library>
+    <library name="classifier-reborn (v2.1.0, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/classifier-reborn-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/classifier-reborn-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/classifier-reborn-2.1.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/classifier-reborn-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/classifier-reborn-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/classifier-reborn-2.1.0/data" />
+      </SOURCES>
+    </library>
     <library name="cldr-plurals-runtime-rb (v1.0.1, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/cldr-plurals-runtime-rb-1.0.1/lib" />
@@ -8294,6 +8306,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@ehr_data_lab/gems/faraday_middleware-0.11.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="fast-stemmer (v1.0.2, RVM: ruby-2.3.1 [chiron-web]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/fast-stemmer/1.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/fast-stemmer-1.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/fast-stemmer-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/fast-stemmer/1.0.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/fast-stemmer-1.0.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@chiron-web/gems/fast-stemmer-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="ffaker (v2.2.0, RVM: ruby-2.3.1 [active_merch]) [gem]">
