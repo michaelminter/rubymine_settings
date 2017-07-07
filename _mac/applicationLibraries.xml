@@ -396,6 +396,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/actionview-5.0.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="active_attr (v0.10.1, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/active_attr-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/active_attr-0.10.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/active_attr-0.10.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/active_attr-0.10.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="activejob (v4.2.6, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/activejob-4.2.6/lib" />
@@ -4316,6 +4326,14 @@
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/fast-stemmer/1.0.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/fast-stemmer-1.0.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/fast-stemmer-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="fat_secret (v0.0.6, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/fat_secret-0.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/fat_secret-0.0.6/lib" />
       </SOURCES>
     </library>
     <library name="faye-websocket (v0.10.7, RVM: ruby-2.2.6 [noowpt]) [gem]">
