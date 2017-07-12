@@ -14596,6 +14596,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.7/gems/spring-1.7.2/lib" />
       </SOURCES>
     </library>
+    <library name="spring (v1.7.2, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/spring-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/spring-1.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/spring-1.7.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/spring-1.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="spring (v1.7.2, RVM: ruby-2.3.1 [active_merch]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/spring-1.7.2/bin" />
