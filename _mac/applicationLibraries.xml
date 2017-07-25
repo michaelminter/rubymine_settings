@@ -2532,6 +2532,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/carrierwave-video-thumbnailer-0.1.4/lib" />
       </SOURCES>
     </library>
+    <library name="carrierwave-video-thumbnailer (v0.1.4@a8d805, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/carrierwave-video-thumbnailer-a8d8058b56df/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/carrierwave-video-thumbnailer-a8d8058b56df/lib" />
+      </SOURCES>
+    </library>
     <library name="carrierwave_backgrounder (v0.4.2, RVM: ruby-2.2.6 [noowpt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/carrierwave_backgrounder-0.4.2/lib" />
