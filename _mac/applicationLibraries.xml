@@ -3404,6 +3404,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/delayed_job_mongoid-4e14b4065a8b/lib" />
       </SOURCES>
     </library>
+    <library name="delayed_job_web (v1.4, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/delayed_job_web-1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/delayed_job_web-1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/delayed_job_web-1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/delayed_job_web-1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="descendants_tracker (v0.0.4, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/descendants_tracker-0.0.4/lib" />
