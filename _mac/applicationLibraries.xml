@@ -5558,6 +5558,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/google_places-0.32.0/lib" />
       </SOURCES>
     </library>
+    <library name="google_places (v0.34.2@707fad, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/google_places-707fad2bb0c3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/google_places-707fad2bb0c3/lib" />
+      </SOURCES>
+    </library>
     <library name="grape (v0.16.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/grape-0.16.2/lib" />
