@@ -2022,6 +2022,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.1/task" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.15.4, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/task" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/man" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/bundler-1.15.4/task" />
+      </SOURCES>
+    </library>
     <library name="bundler (v1.7.6, RVM: ruby-2.1.5 [chiron-api-aggregator]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.5@global/gems/bundler-1.7.6/bin" />
@@ -2538,6 +2554,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/carrierwave-video-thumbnailer-a8d8058b56df/lib" />
+      </SOURCES>
+    </library>
+    <library name="carrierwave-video-thumbnailer (v0.1.4@ea1080, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/carrierwave-video-thumbnailer-ea1080a1b0db/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/carrierwave-video-thumbnailer-ea1080a1b0db/lib" />
       </SOURCES>
     </library>
     <library name="carrierwave_backgrounder (v0.4.2, RVM: ruby-2.2.6 [noowpt]) [gem]">
@@ -12128,6 +12152,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-8434aa6918ad/app" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-8434aa6918ad/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-8434aa6918ad/config" />
+      </SOURCES>
+    </library>
+    <library name="rails_admin_import (v2.0.0@b8bfec, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-b8bfec87cff4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-b8bfec87cff4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-b8bfec87cff4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-b8bfec87cff4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-b8bfec87cff4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/bundler/gems/rails_admin_import-b8bfec87cff4/config" />
       </SOURCES>
     </library>
     <library name="rails_best_practices (v1.18.1, RVM: ruby-2.2.6 [noowpt]) [gem]">
