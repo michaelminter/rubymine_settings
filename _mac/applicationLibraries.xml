@@ -14508,6 +14508,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/sidekiq-failures-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="sidekiq-unique-jobs (v5.0.10, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/sidekiq-unique-jobs-5.0.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/sidekiq-unique-jobs-5.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/sidekiq-unique-jobs-5.0.10/redis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/sidekiq-unique-jobs-5.0.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/sidekiq-unique-jobs-5.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/sidekiq-unique-jobs-5.0.10/redis" />
+      </SOURCES>
+    </library>
     <library name="signature-pad-rails (v1.0, RVM: ruby-2.2.6 [noowpt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/signature-pad-rails-1.0/app" />
