@@ -6218,6 +6218,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/icalendar-1.5.0/website" />
       </SOURCES>
     </library>
+    <library name="ice_cube (v0.16.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ice_cube-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ice_cube-0.16.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ice_cube-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ice_cube-0.16.2/config" />
+      </SOURCES>
+    </library>
     <library name="ice_nine (v0.11.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/ice_nine-0.11.2/lib" />
@@ -14206,6 +14216,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/scenic-1.4.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="schedulable (v0.0.10, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/schedulable-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/schedulable-0.0.10/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/schedulable-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/schedulable-0.0.10/config" />
+      </SOURCES>
+    </library>
     <library name="schema_monkey (v2.1.4, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/schema_monkey-2.1.4/lib" />
@@ -15272,6 +15292,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/state_machines-activerecord-0.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/state_machines-activerecord-0.4.0/log" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@active_merch/gems/state_machines-activerecord-0.4.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="storext (v2.2.2, RVM: ruby-2.3.1 [activezoo]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/storext-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/storext-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="streamio-ffmpeg (v3.0.2, RVM: ruby-2.2.6 [noowpt]) [gem]">
