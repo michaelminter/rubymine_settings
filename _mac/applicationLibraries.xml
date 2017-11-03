@@ -14408,6 +14408,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sdoc-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="searchkick (v2.3.2, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/searchkick-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/searchkick-2.3.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/searchkick-2.3.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/searchkick-2.3.2/benchmark" />
+      </SOURCES>
+    </library>
     <library name="seed_dump (v3.2.4, RVM: ruby-2.3.1 [activezoo]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@activezoo/gems/seed_dump-3.2.4/lib" />
