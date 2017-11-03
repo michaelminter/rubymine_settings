@@ -3722,6 +3722,50 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/easy_translate-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="elasticsearch (v5.0.4, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-5.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-api (v5.0.4, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-api-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-api-5.0.4/utils" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-api-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-api-5.0.4/utils" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-model (v5.0.1, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-model-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-model-5.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-model-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-model-5.0.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-rails (v5.0.1, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-rails-5.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-rails-5.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="elasticsearch-transport (v5.0.4, RVM: ruby-2.2.6 [noowpt]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-transport-5.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/elasticsearch-transport-5.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="em-http-request (v1.1.5, RVM: ruby-2.2.6 [noowpt]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.6@noowpt/gems/em-http-request-1.1.5/lib" />
