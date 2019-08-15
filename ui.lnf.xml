@@ -1,9 +1,0 @@
-<application>
-  <component name="UISettings">
-    <option name="ANIMATE_WINDOWS" value="false" />
-    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
-    <option name="FONT_SCALE" value="1.25" />
-    <option name="HIDE_TOOL_STRIPES" value="false" />
-    <option name="SHOW_ICONS_IN_QUICK_NAVIGATION" value="false" />
-  </component>
-</application>

@@ -1,7 +1,0 @@
-<keymap version="1" name="Eclipse (Mac OS X) copy" parent="Eclipse (Mac OS X)">
-  <action id="Rerun">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
-  <action id="RunToCursor" />
-  <action id="org.jetbrains.plugins.ruby.rails.console.ReloadSources" />
-</keymap>
