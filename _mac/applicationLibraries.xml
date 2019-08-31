@@ -650,6 +650,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-7.4.0/spec" />
       </excluded>
     </library>
+    <library name="airbrake (v9.4.3, RVM: ruby-2.3.6 [keet-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-auth/gems/airbrake-9.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-auth/gems/airbrake-9.4.3/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v9.4.3, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -707,6 +718,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/airbrake-ruby-2.8.3/spec" />
+      </excluded>
+    </library>
+    <library name="airbrake-ruby (v4.6.0, RVM: ruby-2.3.6 [keet-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-auth/gems/airbrake-ruby-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-auth/gems/airbrake-ruby-4.6.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-auth/gems/airbrake-ruby-4.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-auth/gems/airbrake-ruby-4.6.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-auth/gems/airbrake-ruby-4.6.0/spec" />
       </excluded>
     </library>
     <library name="airbrake-ruby (v4.6.0, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
@@ -8314,6 +8341,13 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/rb-inotify-0.9.10/spec" />
       </excluded>
+    </library>
+    <library name="rbtree3 (v0.5.0, RVM: ruby-2.3.6 [keet-auth]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rbtree3 (v0.5.0, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
       <properties>
