@@ -6845,6 +6845,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/parallel_tests-2.28.0/bin" />
       </excluded>
     </library>
+    <library name="paranoia (v2.4.2, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/paranoia-2.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/paranoia-2.4.2/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/paranoia-2.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/paranoia-2.4.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/paranoia-2.4.2/test" />
+      </excluded>
+    </library>
     <library name="parser (v2.5.1.2, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
