@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../functions/collection_by_external_ids.sql'" />
-    <option name="defaultScopeName" value="File '.../functions/collection_by_external_ids.sql'" />
+    <option name="customScope" value="File '.../functions/upsert_integration_blob.sql'" />
+    <option name="defaultScopeName" value="File '.../functions/upsert_integration_blob.sql'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../functions/collection_by_external_ids.sql'" />
+    <option name="SEARCH_SCOPE" value="File '.../functions/upsert_integration_blob.sql'" />
   </component>
 </application>
