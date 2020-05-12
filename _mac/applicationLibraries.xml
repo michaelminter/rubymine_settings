@@ -341,6 +341,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/awesome_print-1.8.0/spec" />
       </excluded>
     </library>
+    <library name="aws-eventstream (v1.0.3, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-eventstream-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-eventstream-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.294.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-partitions-1.294.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-partitions-1.294.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions (v1.75.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -352,6 +374,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-partitions-1.75.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-cloudwatch (v1.34.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sdk-cloudwatch-1.34.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sdk-cloudwatch-1.34.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core (v3.18.1, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -361,6 +394,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sdk-core-3.18.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v3.92.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sdk-core-3.92.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sdk-core-3.92.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-kms (v1.5.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
@@ -416,6 +460,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sigv4-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.1.1, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sigv4-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/aws-sigv4-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="axiom-types (v0.1.1, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
@@ -520,6 +575,24 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-1.9.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-1.9.0/.github" />
+      </excluded>
+    </library>
+    <library name="blazer (v2.1.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-2.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-2.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-2.1.0/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-2.1.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/blazer-2.1.0/config" />
       </excluded>
     </library>
     <library name="bootstrap-sass (v3.3.7, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
@@ -769,6 +842,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chartkick-2.3.5/.github" />
       </excluded>
     </library>
+    <library name="chartkick (v3.3.1, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chartkick-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chartkick-3.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chartkick-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chartkick-3.3.1/vendor" />
+      </SOURCES>
+    </library>
     <library name="chunky_png (v1.3.11, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -789,6 +875,56 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chunky_png-1.3.11/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chunky_png-1.3.11/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/chunky_png-1.3.11/benchmarks" />
+      </excluded>
+    </library>
+    <library name="cms_qpp_eligibility (v1.0.0@81f4e9, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/.openapi-generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/.openapi-generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_eligibility-81f4e98ff53c/.openapi-generator" />
+      </excluded>
+    </library>
+    <library name="cms_qpp_submission (v1.0.2@583994, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/.openapi-generator" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/.openapi-generator" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/bundler/gems/cms_qpp_submission-58399415eadd/.openapi-generator" />
       </excluded>
     </library>
     <library name="coercible (v1.0.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
@@ -1081,6 +1217,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta3/test" />
+      </excluded>
+    </library>
+    <library name="debase (v0.3.0.beta30, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/debase-0.3.0.beta30/test" />
       </excluded>
     </library>
     <library name="debase (v0.3.0.beta7, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
@@ -1422,6 +1577,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/erubis-2.7.0/benchmark" />
       </excluded>
     </library>
+    <library name="ethon (v0.12.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/profile" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/profile" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ethon-0.12.0/profile" />
+      </excluded>
+    </library>
     <library name="eventmachine (v1.0.9.1, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1539,6 +1713,27 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/faker-1.8.7/lib" />
       </SOURCES>
+    </library>
+    <library name="ffi (v1.12.2, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ffi-1.12.2/samples" />
+      </excluded>
     </library>
     <library name="ffi (v1.9.23, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
@@ -1948,6 +2143,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/jmespath-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="jmespath (v1.4.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/jmespath-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/jmespath-1.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="jquery-minicolors-rails (v2.2.6.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2037,6 +2243,42 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-1.8.6/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-1.8.6/tools" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-1.8.6/diagrams" />
+      </excluded>
+    </library>
+    <library name="json (v2.1.0, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/2.1.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/references" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/json-2.1.0/references" />
       </excluded>
     </library>
     <library name="jwt (v1.5.6, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
@@ -3852,6 +4094,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta19/ext" />
       </excluded>
     </library>
+    <library name="ruby-debug-ide (v0.8.0.beta23, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/ruby-debug-ide-0.8.0.beta23/ext" />
+      </excluded>
+    </library>
     <library name="ruby-debug-ide (v0.8.0.beta3, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4644,6 +4905,36 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/timezone-1.2.10/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/timezone-1.2.10/test" />
+      </excluded>
+    </library>
+    <library name="trend (v0.1.2, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/trend-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/trend-0.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="typhoeus (v1.3.1, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/perf" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6@keet-core/gems/typhoeus-1.3.1/spec" />
       </excluded>
     </library>
     <library name="tzinfo (v1.2.5, RVM: ruby-2.3.6 [keet-core]) [gem]" type="rubylib">
