@@ -2608,6 +2608,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta3/test" />
       </excluded>
     </library>
+    <library name="debase (v0.3.0.beta30, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/debase-0.3.0.beta30/test" />
+      </excluded>
+    </library>
     <library name="debase (v0.3.0.beta8, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8533,6 +8552,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta19/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta19/ext" />
+      </excluded>
+    </library>
+    <library name="ruby-debug-ide (v0.8.0.beta23, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ruby-debug-ide-0.8.0.beta23/ext" />
       </excluded>
     </library>
     <library name="ruby-debug-ide (v0.8.0.beta3, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
