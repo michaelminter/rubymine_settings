@@ -437,6 +437,17 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/ahoy_matey-2.1.0/.github" />
       </excluded>
     </library>
+    <library name="airbrake (v11.0.1, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-11.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-11.0.1/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake (v7.2.1, Remote: ruby-2.3.6-p384 (3)) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -580,6 +591,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-ruby-4.7.0/spec" />
+      </excluded>
+    </library>
+    <library name="airbrake-ruby (v5.1.0, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-ruby-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-ruby-5.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-ruby-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-ruby-5.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/airbrake-ruby-5.1.0/spec" />
       </excluded>
     </library>
     <library name="amoeba (v3.1.0, Remote: ruby-2.3.6-p384 (3)) [gem]" type="rubylib">
@@ -1171,11 +1198,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/bcrypt-3.1.13/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/bcrypt/3.1.13" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/bcrypt-3.1.13/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/bcrypt-3.1.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/bcrypt-3.1.13/spec" />
@@ -1628,11 +1657,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/byebug-11.0.1/lib" />
@@ -2133,6 +2164,31 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/daemons-1.3.1/examples" />
+      </excluded>
+    </library>
+    <library name="data_migrate (v6.5.0, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/data_migrate-6.5.0/gemfiles" />
       </excluded>
     </library>
     <library name="database_cleaner (v1.6.2, Remote: ruby-2.3.6-p384 (3)) [gem]" type="rubylib">
@@ -3410,11 +3466,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ffi-1.11.1/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/ffi/1.11.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ffi-1.11.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ffi-1.11.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/ffi-1.11.1/samples" />
@@ -3596,6 +3654,28 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/fullcalendar-rails-3.4.0.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/fullcalendar-rails-3.4.0.0/vendor" />
       </SOURCES>
+    </library>
+    <library name="fx (v0.5.0, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/fx-0.5.0/gemfiles" />
+      </excluded>
     </library>
     <library name="gem-wrappers (v1.3.2, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
       <properties>
@@ -4149,10 +4229,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/jaro_winkler-1.5.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/jaro_winkler/1.5.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/jaro_winkler-1.5.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/jaro_winkler-1.5.3/lib" />
       </SOURCES>
@@ -4297,6 +4379,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/json-2.2.0/java" />
@@ -4306,6 +4389,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/json-2.2.0/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/json/2.2.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/json-2.2.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/json-2.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/json-2.2.0/java" />
@@ -5611,6 +5695,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nio4r-2.5.2/spec" />
@@ -5618,6 +5703,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nio4r-2.5.2/examples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nio4r/2.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nio4r-2.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nio4r-2.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nio4r-2.5.2/spec" />
@@ -5682,12 +5768,14 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nokogiri-1.10.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nokogiri-1.10.4/patches" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/nokogiri/1.10.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nokogiri-1.10.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nokogiri-1.10.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/nokogiri-1.10.4/lib" />
@@ -5946,11 +6034,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/pg-1.1.4/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/pg-1.1.4/spec" />
@@ -6383,6 +6473,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/puma-3.12.1/lib" />
@@ -6390,6 +6481,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/puma-3.12.1/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/puma-3.12.1/lib" />
@@ -7090,11 +7182,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/rb-fsevent-0.10.3/lib" />
@@ -8695,6 +8789,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-0.17.1/doc" />
       </excluded>
     </library>
+    <library name="simplecov (v0.19.0, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-0.19.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-0.19.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-0.19.0/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-0.19.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-0.19.0/doc" />
+      </excluded>
+    </library>
     <library name="simplecov-html (v0.10.2, Remote: ruby-2.3.6-p384 (3)) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8743,6 +8853,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.10.2/views" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.10.2/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.10.2/public" />
+      </excluded>
+    </library>
+    <library name="simplecov-html (v0.12.2, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/public" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/public" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/views" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/simplecov-html-0.12.2/public" />
       </excluded>
     </library>
     <library name="sinatra (v1.4.8, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
@@ -9722,10 +9857,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/websocket-driver-0.7.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs25/websocket-driver/0.7.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/websocket-driver-0.7.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/websocket-driver-0.7.1/lib" />
       </SOURCES>
