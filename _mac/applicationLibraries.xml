@@ -10015,6 +10015,41 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-29d6cbb13e92/test" />
       </excluded>
     </library>
+    <library name="trackstamps (v0.0.11@e951ac, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/bundler/gems/trackstamps-e951ac637edc/test" />
+      </excluded>
+    </library>
+    <library name="trackstamps (v0.0.9, RVM: ruby-2.5.5 [keet-api]) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/trackstamps-0.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/trackstamps-0.0.9/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/trackstamps-0.0.9/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/trackstamps-0.0.9/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.5@keet-api/gems/trackstamps-0.0.9/test" />
+      </excluded>
+    </library>
     <library name="trend (v0.1.2, Remote: ruby-2.3.6-p384 (3)) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
