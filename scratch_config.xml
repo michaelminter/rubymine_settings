@@ -49,8 +49,11 @@
         <option value="scratch_3.json" />
         <option value="scratch_4.json" />
         <option value="scratch_5.json" />
+        <option value="scratch_8.rb" />
+        <option value="scratch_6.json" />
       </list>
     </option>
+    <option name="lastOpenedScratch" value="scratch_6.json" />
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
   </component>
 </application>
