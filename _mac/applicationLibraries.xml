@@ -1143,13 +1143,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/bcrypt-3.1.11/spec" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/bcrypt/3.1.11" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/bcrypt-3.1.11/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/bcrypt-3.1.11/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/bcrypt-3.1.11/spec" />
@@ -1518,13 +1516,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/byebug/10.0.2" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/byebug/10.0.2" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/byebug-10.0.2/lib" />
@@ -2898,13 +2894,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/ffi-1.12.2/samples" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/ffi/1.12.2" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/ffi-1.12.2/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/ffi-1.12.2/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/ffi-1.12.2/samples" />
@@ -3588,7 +3582,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/json-2.1.0/data" />
@@ -3599,7 +3592,6 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/json-2.1.0/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/json/2.1.0" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/json-2.1.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/json-2.1.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/json-2.1.0/data" />
@@ -4767,14 +4759,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/nokogiri-1.10.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/nokogiri-1.10.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/nokogiri-1.10.1/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/nokogiri/1.10.1" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/nokogiri-1.10.1/bin" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/nokogiri-1.10.1/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/nokogiri-1.10.1/lib" />
@@ -5010,14 +5000,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/pg/0.20.0" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/pg-0.20.0/spec" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/pg-0.20.0/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/pg/0.20.0" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/pg-0.20.0/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/pg-0.20.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/pg-0.20.0/spec" />
@@ -5364,7 +5352,6 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/puma/3.11.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/puma-3.11.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/puma-3.11.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/puma-3.11.3/lib" />
@@ -5372,7 +5359,6 @@
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/puma-3.11.3/tools" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/puma/3.11.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/puma-3.11.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/puma-3.11.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/puma-3.11.3/lib" />
@@ -6061,13 +6047,11 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_HOME_DIR$/plugins/ruby/rubystubs/rubystubs23/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/Library/Caches/JetBrains/RubyMine2020.1/ruby_stubs/-1402291879/usr/local/bundle/gems/rb-fsevent-0.10.3/lib" />
